@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="ktpl_newsletterPopup" frontName="ktpl_newsletterPopup">
+            <module name="Ktpl_NewsletterPopup"/>
+        </route>
+    </router>
+</config>
